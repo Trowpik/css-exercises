@@ -1,0 +1,22 @@
+/* body {
+    font-size: 24px;
+} */
+
+p {
+    background-color: rgb(245, 152, 152);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number-2 {
+    color: rgb(46, 46, 228);
+    font-size: 36px;
+}
+
+#number-4 {
+background-color: rgb(124, 224, 124);
+font-weight: 700;
+}
+
+.bigger {
+    font-size: 24px;
+}
