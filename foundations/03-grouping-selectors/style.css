@@ -1,0 +1,11 @@
+.bouton {
+font-family: Helvetica, "Times New Roman", sans-serif;
+font-size: 28px;
+}
+.premier {
+background-color: black;
+color: white;
+}
+.deuxieme {
+background-color: yellow;
+}
